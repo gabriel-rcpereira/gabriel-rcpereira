@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there, I'm Gabriel! 👋
 
-<!--
-**gabriel-rcpereira/gabriel-rcpereira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Languages & Tools
 
-Here are some ideas to get you started:
+- **Python** 🐍
+- **Java** ☕
+- **Kotlin** 🟣
+- **JavaScript** ✨
+- **C#**, **C++**, **PHP**
+- **HTML/CSS**
+- **Spring**, **Express**, **.NET**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📈 GitHub Stats
+
+![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabriel-rcpereira&show_icons=true&theme=default)
+
+---
+
+## 📫 Let's Connect!
+
+- [LinkedIn](https://www.linkedin.com/in/gabriel-rcpereira/)
+---
+
+> _“In theory there's no difference between practice and theory, in practice there's”_
