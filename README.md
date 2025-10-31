@@ -6,7 +6,7 @@
 - **Java** ☕
 - **Kotlin** 🟣
 - **JavaScript** ✨
-- **C#**, **C++**, **PHP**
+- **C#**
 - **HTML/CSS**
 - **Spring**, **Express**, **.NET**
 
